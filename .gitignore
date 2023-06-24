@@ -1,0 +1,8 @@
+.env
+./test
+./build
+.git
+config.json
+*.csv
+run2.py
+test.*
